@@ -11,7 +11,7 @@ OIDC identity brokering and custom authentication flows in Keycloak:
 2. **Custom authentication flow** — modify the browser flow (e.g. conditional MFA
    step-up) and observe how execution requirements change the login journey.
 3. **Realm export** — the same export format that
-   [AgentLens](https://github.com/JOE07here/agentlens) consumes for risk scanning.
+   [CyberLens](https://github.com/JOE07here/cyberlens) consumes for risk scanning.
 
 ## Concepts this lab proves
 

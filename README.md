@@ -20,7 +20,7 @@ mistakes left in.
 
 ## Related work
 
-- **[AgentLens](https://github.com/JOE07here/agentlens)** — browser-only risk scanner for
+- **[CyberLens](https://github.com/JOE07here/cyberlens)** — browser-only risk scanner for
   non-human / AI-agent identities across MidPoint + Keycloak
-  ([live demo](https://joe07here.github.io/agentlens/))
+  ([live demo](https://joe07here.github.io/cyberlens/))
 - **Zero Trust thesis** — evaluating MidPoint & Keycloak against NIST SP 800-207
